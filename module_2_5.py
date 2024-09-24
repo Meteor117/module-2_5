@@ -21,19 +21,4 @@ print(result3)
 
 
 
-# matrix = []
-# for i in range (3):
-#     row= []
-#     for j in range (3):
-#         row.append(0)
-#     matrix.append (row)
-#
-# def is_matrix (m):
-#     if not m:
-#         return False
-#     row_length = len (m[0])
-#     return all (len (row)==row_length for row in m)
-# print ('Matrix:')
-# for row in matrix:
-#     print (row)
-# print ('\nIs this a mstrix?', is_matrix)
+
